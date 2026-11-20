@@ -1,0 +1,7 @@
+interface:
+  display_name: "Personal UI Design"
+  short_description: "Design and review distinctive product UI"
+  default_prompt: "Use $personal-ui-design to design or refine this interface and verify the rendered workflow."
+
+policy:
+  allow_implicit_invocation: true
